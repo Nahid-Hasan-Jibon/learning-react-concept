@@ -1,4 +1,5 @@
 import "./App.css";
+import Count from "./Count";
 
 function App() {
   function handleClick() {
@@ -15,6 +16,10 @@ function App() {
   return (
     <>
       <h3>Hello vaia kmn aco</h3>
+
+      <Count></Count>
+
+
       <button onClick={handleClick}>Click Me</button>
       <button onClick={handleClick2}>Click Me 2</button>
       <button
