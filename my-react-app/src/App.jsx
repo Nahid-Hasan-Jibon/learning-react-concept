@@ -1,5 +1,6 @@
 import "./App.css";
 import Count from "./Count";
+import Friends from "./Friends";
 import Team from "./Team";
 import User from "./user";
 
@@ -18,6 +19,7 @@ function App() {
   return (
     <>
       <h3>Hello vaia kmn aco</h3>
+      <Friends></Friends>
 
       <User></User>
 
