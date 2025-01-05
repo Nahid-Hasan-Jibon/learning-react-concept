@@ -28,5 +28,5 @@ export default Friends;
  * 2. Use useEffect with function and dependency
  * 3. fetch data
  * 4. get the data an set it to the setFunction in useState
- *  
+ *  5. Display Data on the componenent
  */
