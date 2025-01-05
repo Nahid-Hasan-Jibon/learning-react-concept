@@ -1,5 +1,7 @@
 import "./App.css";
 import Count from "./Count";
+import Team from "./Team";
+import User from "./user";
 
 function App() {
   function handleClick() {
@@ -16,6 +18,10 @@ function App() {
   return (
     <>
       <h3>Hello vaia kmn aco</h3>
+
+      <User></User>
+
+      <Team></Team>
 
       <Count></Count>
 
